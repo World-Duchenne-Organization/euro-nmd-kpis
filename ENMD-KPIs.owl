@@ -36,7 +36,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000001">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% cases by age (adult/paediatric)</dc:description>
+  <dc:title xml:lang="en">% cases by age (adult/paediatric)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % cases by age (adult/paediatric)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000001</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % cases by age (adult/paediatric)</rdfs:label>
@@ -46,7 +46,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000002">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% cases by sex</dc:description>
+  <dc:title xml:lang="en">% cases by sex</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % cases by sex</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000002</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % cases by sex</rdfs:label>
@@ -56,7 +56,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000003">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients according to patient status</dc:description>
+  <dc:title xml:lang="en">% patients according to patient status</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients according to patient status</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000003</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients according to patient status</rdfs:label>
@@ -66,7 +66,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000004">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">average life expectancy after diagnosis</dc:description>
+  <dc:title xml:lang="en">average life expectancy after diagnosis</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: average life expectancy after diagnosis</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000004</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: average life expectancy after diagnosis</rdfs:label>
@@ -76,7 +76,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000005">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">time from onset to first HCP visit</dc:description>
+  <dc:title xml:lang="en">time from onset to first HCP visit</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: time from onset to first HCP visit</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000005</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: time from onset to first HCP visit</rdfs:label>
@@ -86,7 +86,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000006">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients diagnosed in the first year after first contact with HCP</dc:description>
+  <dc:title xml:lang="en">% patients diagnosed in the first year after first contact with HCP</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients diagnosed in the first year after first contact with HCP</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000006</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients diagnosed in the first year after first contact with HCP</rdfs:label>
@@ -96,7 +96,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000007">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">time from onset (first symptoms) to specific diagnosis</dc:description>
+  <dc:title xml:lang="en">time from onset (first symptoms) to specific diagnosis</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: time from onset (first symptoms) to specific diagnosis</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000007</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: time from onset (first symptoms) to specific diagnosis</rdfs:label>
@@ -106,7 +106,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000008">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% clinically diagnosed cases</dc:description>
+  <dc:title xml:lang="en">% clinically diagnosed cases</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % clinically diagnosed cases</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000008</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % clinically diagnosed cases</rdfs:label>
@@ -116,7 +116,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000009">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% genetically diagnosed cases</dc:description>
+  <dc:title xml:lang="en">% genetically diagnosed cases</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % genetically diagnosed cases</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000009</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % genetically diagnosed cases</rdfs:label>
@@ -126,7 +126,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000010">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% undiagnosed cases (without clinical/genetics diagnosis)</dc:description>
+  <dc:title xml:lang="en">% undiagnosed cases (without clinical/genetics diagnosis)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % undiagnosed cases (without clinical/genetics diagnosis)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000010</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % undiagnosed cases (without clinical/genetics diagnosis)</rdfs:label>
@@ -136,7 +136,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000011">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients consenting to be contact for research purposes</dc:description>
+  <dc:title xml:lang="en">% patients consenting to be contact for research purposes</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients consenting to be contact for research purposes</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000011</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients consenting to be contact for research purposes</rdfs:label>
@@ -146,7 +146,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000012">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients consenting reuse of their data (by list item)</dc:description>
+  <dc:title xml:lang="en">% patients consenting reuse of their data (by list item)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients consenting reuse of their data (by list item)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000012</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients consenting reuse of their data (by list item)</rdfs:label>
@@ -156,7 +156,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000013">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with biological samples</dc:description>
+  <dc:title xml:lang="en">% patients with biological samples</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with biological samples</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000013</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with biological samples</rdfs:label>
@@ -166,7 +166,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000014">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with biological samples in a biobank</dc:description>
+  <dc:title xml:lang="en">% patients with biological samples in a biobank</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with biological samples in a biobank</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000014</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with biological samples in a biobank</rdfs:label>
@@ -176,7 +176,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000015">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by WHODAS disability profile/score</dc:description>
+  <dc:title xml:lang="en">stratification by WHODAS disability profile/score</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by WHODAS disability profile/score</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000015</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by WHODAS disability profile/score</rdfs:label>
@@ -186,7 +186,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000016">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with delayed milestones</dc:description>
+  <dc:title xml:lang="en">% patients with delayed milestones</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with delayed milestones</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000016</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with delayed milestones</rdfs:label>
@@ -196,7 +196,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000017">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with first degree affected relatives</dc:description>
+  <dc:title xml:lang="en">% patients with first degree affected relatives</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with first degree affected relatives</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000017</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with first degree affected relatives</rdfs:label>
@@ -206,7 +206,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000018">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients having received genetic counselling</dc:description>
+  <dc:title xml:lang="en">% patients having received genetic counselling</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients having received genetic counselling</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000018</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients having received genetic counselling</rdfs:label>
@@ -216,7 +216,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000019">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients by ambulation status</dc:description>
+  <dc:title xml:lang="en">% patients by ambulation status</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients by ambulation status</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000019</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients by ambulation status</rdfs:label>
@@ -226,7 +226,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000020">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients that lost ambulation in the last 12 months</dc:description>
+  <dc:title xml:lang="en">% patients that lost ambulation in the last 12 months</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients that lost ambulation in the last 12 months</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000020</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients that lost ambulation in the last 12 months</rdfs:label>
@@ -236,7 +236,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000021">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with independent feeding capacity</dc:description>
+  <dc:title xml:lang="en">% patients with independent feeding capacity</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with independent feeding capacity</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000021</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with independent feeding capacity</rdfs:label>
@@ -246,7 +246,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000022">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with cardiac disease</dc:description>
+  <dc:title xml:lang="en">% patients with cardiac disease</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with cardiac disease</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000022</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with cardiac disease</rdfs:label>
@@ -256,7 +256,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000023">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with feeding difficulties</dc:description>
+  <dc:title xml:lang="en">% patients with feeding difficulties</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with feeding difficulties</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000023</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with feeding difficulties</rdfs:label>
@@ -266,7 +266,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000024">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with breathing difficulties</dc:description>
+  <dc:title xml:lang="en">% patients with breathing difficulties</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with breathing difficulties</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000024</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with breathing difficulties</rdfs:label>
@@ -276,7 +276,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000025">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with cognitive impairment</dc:description>
+  <dc:title xml:lang="en">% patients with cognitive impairment</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with cognitive impairment</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000025</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with cognitive impairment</rdfs:label>
@@ -286,7 +286,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000026">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with scoliosis</dc:description>
+  <dc:title xml:lang="en">% patients with scoliosis</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with scoliosis</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000026</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with scoliosis</rdfs:label>
@@ -296,7 +296,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000027">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with acquired cognitive impairment (dementia)</dc:description>
+  <dc:title xml:lang="en">% patients with acquired cognitive impairment (dementia)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with acquired cognitive impairment (dementia)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000027</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with acquired cognitive impairment (dementia)</rdfs:label>
@@ -306,7 +306,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000028">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with development delay</dc:description>
+  <dc:title xml:lang="en">% patients with development delay</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with development delay</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000028</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with development delay</rdfs:label>
@@ -316,7 +316,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000029">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with respiratory insufficiency</dc:description>
+  <dc:title xml:lang="en">% patients with respiratory insufficiency</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with respiratory insufficiency</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000029</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with respiratory insufficiency</rdfs:label>
@@ -326,7 +326,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000030">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with symptoms of hypoventilation</dc:description>
+  <dc:title xml:lang="en">% patients with symptoms of hypoventilation</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with symptoms of hypoventilation</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000030</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with symptoms of hypoventilation</rdfs:label>
@@ -336,7 +336,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000031">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients on assisted ventilation</dc:description>
+  <dc:title xml:lang="en">% patients on assisted ventilation</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients on assisted ventilation</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000031</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients on assisted ventilation</rdfs:label>
@@ -346,7 +346,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000032">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">%NIV, %night-only NIV, %exacerbation only NIV</dc:description>
+  <dc:title xml:lang="en">%NIV, %night-only NIV, %exacerbation only NIV</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: %NIV, %night-only NIV, %exacerbation only NIV</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000032</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: %NIV, %night-only NIV, %exacerbation only NIV</rdfs:label>
@@ -356,7 +356,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000033">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients on invasive ventilation</dc:description>
+  <dc:title xml:lang="en">% patients on invasive ventilation</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients on invasive ventilation</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000033</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients on invasive ventilation</rdfs:label>
@@ -366,7 +366,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000034">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with swallowing difficulties</dc:description>
+  <dc:title xml:lang="en">% patients with swallowing difficulties</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with swallowing difficulties</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000034</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with swallowing difficulties</rdfs:label>
@@ -376,7 +376,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000035">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% gastrostomy, weight variation in one year before gastrostomy</dc:description>
+  <dc:title xml:lang="en">% gastrostomy, weight variation in one year before gastrostomy</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % gastrostomy, weight variation in one year before gastrostomy</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000035</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % gastrostomy, weight variation in one year before gastrostomy</rdfs:label>
@@ -386,7 +386,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000036">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">number of days per year with nasogastric tube feeding</dc:description>
+  <dc:title xml:lang="en">number of days per year with nasogastric tube feeding</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: number of days per year with nasogastric tube feeding</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000036</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: number of days per year with nasogastric tube feeding</rdfs:label>
@@ -396,7 +396,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000037">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with cardiac diagnosis/by strata</dc:description>
+  <dc:title xml:lang="en">% patients with cardiac diagnosis/by strata</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with cardiac diagnosis/by strata</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000037</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with cardiac diagnosis/by strata</rdfs:label>
@@ -406,7 +406,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000038">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with pacemaker (PM)</dc:description>
+  <dc:title xml:lang="en">% patients with pacemaker (PM)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with pacemaker (PM)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000038</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with pacemaker (PM)</rdfs:label>
@@ -416,7 +416,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000039">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with Implantable Cardio Defibrillator (ICD)</dc:description>
+  <dc:title xml:lang="en">% patients with Implantable Cardio Defibrillator (ICD)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with Implantable Cardio Defibrillator (ICD)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000039</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with Implantable Cardio Defibrillator (ICD)</rdfs:label>
@@ -426,7 +426,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000040">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with Cardiac Resynchronization Therapy (CRT)</dc:description>
+  <dc:title xml:lang="en">% patients with Cardiac Resynchronization Therapy (CRT)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with Cardiac Resynchronization Therapy (CRT)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000040</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with Cardiac Resynchronization Therapy (CRT)</rdfs:label>
@@ -436,7 +436,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000041">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with Heart Transplantation (HT)</dc:description>
+  <dc:title xml:lang="en">% patients with Heart Transplantation (HT)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with Heart Transplantation (HT)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000041</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with Heart Transplantation (HT)</rdfs:label>
@@ -446,7 +446,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000042">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients according to medication / medication groups</dc:description>
+  <dc:title xml:lang="en">% patients according to medication / medication groups</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients according to medication / medication groups</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000042</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients according to medication / medication groups</rdfs:label>
@@ -456,7 +456,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000043">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with scoliosis surgery</dc:description>
+  <dc:title xml:lang="en">% patients with scoliosis surgery</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with scoliosis surgery</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000043</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with scoliosis surgery</rdfs:label>
@@ -466,7 +466,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000044">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">number of unplanned hospitalization per year</dc:description>
+  <dc:title xml:lang="en">number of unplanned hospitalization per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: number of unplanned hospitalization per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000044</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: number of unplanned hospitalization per year</rdfs:label>
@@ -476,7 +476,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000045">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">number of days of unplanned hospitalization per year</dc:description>
+  <dc:title xml:lang="en">number of days of unplanned hospitalization per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: number of days of unplanned hospitalization per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000045</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: number of days of unplanned hospitalization per year</rdfs:label>
@@ -486,7 +486,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000046">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with access to physical therapy per year</dc:description>
+  <dc:title xml:lang="en">% patients with access to physical therapy per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with access to physical therapy per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000046</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with access to physical therapy per year</rdfs:label>
@@ -496,7 +496,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000047">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with access to occupational therapy per year</dc:description>
+  <dc:title xml:lang="en">% patients with access to occupational therapy per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with access to occupational therapy per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000047</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with access to occupational therapy per year</rdfs:label>
@@ -506,7 +506,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000048">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">time from first HCP visit to initiation of specific/targeted therapy</dc:description>
+  <dc:title xml:lang="en">time from first HCP visit to initiation of specific/targeted therapy</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: time from first HCP visit to initiation of specific/targeted therapy</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000048</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: time from first HCP visit to initiation of specific/targeted therapy</rdfs:label>
@@ -516,7 +516,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000049">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients in other registries</dc:description>
+  <dc:title xml:lang="en">% patients in other registries</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients in other registries</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000049</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients in other registries</rdfs:label>
@@ -526,7 +526,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000050">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients in clinical trials</dc:description>
+  <dc:title xml:lang="en">% patients in clinical trials</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients in clinical trials</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000050</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients in clinical trials</rdfs:label>
@@ -536,7 +536,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000051">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients on specific treatment stratified by dosage</dc:description>
+  <dc:title xml:lang="en">% patients on specific treatment stratified by dosage</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients on specific treatment stratified by dosage</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000051</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients on specific treatment stratified by dosage</rdfs:label>
@@ -546,7 +546,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000052">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">treatment response stratification</dc:description>
+  <dc:title xml:lang="en">treatment response stratification</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: treatment response stratification</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000052</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: treatment response stratification</rdfs:label>
@@ -556,7 +556,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000053">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients having received a specific diagnosis after 12 months</dc:description>
+  <dc:title xml:lang="en">% patients having received a specific diagnosis after 12 months</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients having received a specific diagnosis after 12 months</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000053</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients having received a specific diagnosis after 12 months</rdfs:label>
@@ -566,7 +566,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000054">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients receiving “Mitococktail” or food supplements</dc:description>
+  <dc:title xml:lang="en">% patients receiving “Mitococktail” or food supplements</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients receiving “Mitococktail” or food supplements</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000054</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients receiving “Mitococktail” or food supplements</rdfs:label>
@@ -576,7 +576,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000055">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with partial / complete remission (CIDP)</dc:description>
+  <dc:title xml:lang="en">% patients with partial / complete remission (CIDP)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with partial / complete remission (CIDP)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000055</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with partial / complete remission (CIDP)</rdfs:label>
@@ -586,7 +586,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000056">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">change of ambulation in the last 12 months</dc:description>
+  <dc:title xml:lang="en">change of ambulation in the last 12 months</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: change of ambulation in the last 12 months</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000056</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: change of ambulation in the last 12 months</rdfs:label>
@@ -596,7 +596,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000057">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">time to full remission</dc:description>
+  <dc:title xml:lang="en">time to full remission</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: time to full remission</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000057</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: time to full remission</rdfs:label>
@@ -606,7 +606,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000058">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">time to partial remission</dc:description>
+  <dc:title xml:lang="en">time to partial remission</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: time to partial remission</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000058</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: time to partial remission</rdfs:label>
@@ -616,7 +616,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000059">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">time from symptom onset to thymectomy</dc:description>
+  <dc:title xml:lang="en">time from symptom onset to thymectomy</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: time from symptom onset to thymectomy</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000059</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: time from symptom onset to thymectomy</rdfs:label>
@@ -626,7 +626,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000060">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with dysimmune neuropathies with anti-nerve antibodies</dc:description>
+  <dc:title xml:lang="en">% patients with dysimmune neuropathies with anti-nerve antibodies</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with dysimmune neuropathies with anti-nerve antibodies</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000060</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with dysimmune neuropathies with anti-nerve antibodies</rdfs:label>
@@ -636,7 +636,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000061">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by antibodies of patients with dysimmune neuropathies</dc:description>
+  <dc:title xml:lang="en">stratification by antibodies of patients with dysimmune neuropathies</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by antibodies of patients with dysimmune neuropathies</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000061</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by antibodies of patients with dysimmune neuropathies</rdfs:label>
@@ -646,7 +646,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000062">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by antibodies titer</dc:description>
+  <dc:title xml:lang="en">stratification by antibodies titer</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by antibodies titer</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000062</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by antibodies titer</rdfs:label>
@@ -656,7 +656,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000063">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with complete remission after 12 months</dc:description>
+  <dc:title xml:lang="en">% patients with complete remission after 12 months</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with complete remission after 12 months</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000063</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with complete remission after 12 months</rdfs:label>
@@ -666,7 +666,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000064">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">scale of daily living activities for specified diseases</dc:description>
+  <dc:title xml:lang="en">scale of daily living activities for specified diseases</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: scale of daily living activities for specified diseases</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000064</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: scale of daily living activities for specified diseases</rdfs:label>
@@ -676,7 +676,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000065">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with partial remission after 12 months</dc:description>
+  <dc:title xml:lang="en">% patients with partial remission after 12 months</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with partial remission after 12 months</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000065</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with partial remission after 12 months</rdfs:label>
@@ -686,7 +686,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000066">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients screened for malignancies</dc:description>
+  <dc:title xml:lang="en">% patients screened for malignancies</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients screened for malignancies</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000066</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients screened for malignancies</rdfs:label>
@@ -696,7 +696,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000067">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with access to speech therapy per year</dc:description>
+  <dc:title xml:lang="en">% patients with access to speech therapy per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with access to speech therapy per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000067</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with access to speech therapy per year</rdfs:label>
@@ -706,7 +706,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000068">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with access to dietary advice per year</dc:description>
+  <dc:title xml:lang="en">% patients with access to dietary advice per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with access to dietary advice per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000068</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with access to dietary advice per year</rdfs:label>
@@ -716,7 +716,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000069">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">maximum walking distance estimate</dc:description>
+  <dc:title xml:lang="en">maximum walking distance estimate</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: maximum walking distance estimate</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000069</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: maximum walking distance estimate</rdfs:label>
@@ -726,7 +726,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000070">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients assessed for QoL outcomes</dc:description>
+  <dc:title xml:lang="en">% patients assessed for QoL outcomes</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients assessed for QoL outcomes</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000070</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients assessed for QoL outcomes</rdfs:label>
@@ -736,7 +736,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000071">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients discussed in multidisciplinary teams / CPMS / boards</dc:description>
+  <dc:title xml:lang="en">% patients discussed in multidisciplinary teams / CPMS / boards</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients discussed in multidisciplinary teams / CPMS / boards</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000071</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients discussed in multidisciplinary teams / CPMS / boards</rdfs:label>
@@ -746,7 +746,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000072">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with mito-associated epilepsy per year</dc:description>
+  <dc:title xml:lang="en">% patients with mito-associated epilepsy per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with mito-associated epilepsy per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000072</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with mito-associated epilepsy per year</rdfs:label>
@@ -756,7 +756,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000073">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with epilepsy treatment following existing guidelines each year</dc:description>
+  <dc:title xml:lang="en">% patients with epilepsy treatment following existing guidelines each year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with epilepsy treatment following existing guidelines each year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000073</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with epilepsy treatment following existing guidelines each year</rdfs:label>
@@ -766,7 +766,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000074">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients receiving "Mitocoktail" or food supplements</dc:description>
+  <dc:title xml:lang="en">% patients receiving "Mitocoktail" or food supplements</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients receiving "Mitocoktail" or food supplements</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000074</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients receiving "Mitocoktail" or food supplements</rdfs:label>
@@ -776,7 +776,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000075">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by mitochondrial phenotype</dc:description>
+  <dc:title xml:lang="en">stratification by mitochondrial phenotype</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by mitochondrial phenotype</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000075</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by mitochondrial phenotype</rdfs:label>
@@ -786,7 +786,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000076">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by QoL score (NMDAS/NMPDS/IPMDS)</dc:description>
+  <dc:title xml:lang="en">stratification by QoL score (NMDAS/NMPDS/IPMDS)</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by QoL score (NMDAS/NMPDS/IPMDS)</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000076</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by QoL score (NMDAS/NMPDS/IPMDS)</rdfs:label>
@@ -796,7 +796,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000077">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">number of days ventilated per patient per year</dc:description>
+  <dc:title xml:lang="en">number of days ventilated per patient per year</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: number of days ventilated per patient per year</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000077</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: number of days ventilated per patient per year</rdfs:label>
@@ -806,7 +806,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000078">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with SMN2 copy number testing</dc:description>
+  <dc:title xml:lang="en">% patients with SMN2 copy number testing</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with SMN2 copy number testing</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000078</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with SMN2 copy number testing</rdfs:label>
@@ -816,7 +816,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000079">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">% patients with definitive ALS diagnosis</dc:description>
+  <dc:title xml:lang="en">% patients with definitive ALS diagnosis</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: % patients with definitive ALS diagnosis</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000079</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: % patients with definitive ALS diagnosis</rdfs:label>
@@ -826,7 +826,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000080">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by ALS presentation form</dc:description>
+  <dc:title xml:lang="en">stratification by ALS presentation form</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by ALS presentation form</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000080</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by ALS presentation form</rdfs:label>
@@ -836,7 +836,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000081">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by other ALS presentation symptoms or signs</dc:description>
+  <dc:title xml:lang="en">stratification by other ALS presentation symptoms or signs</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by other ALS presentation symptoms or signs</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000081</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by other ALS presentation symptoms or signs</rdfs:label>
@@ -846,7 +846,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000082">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">stratification by ALS-FRS-R score</dc:description>
+  <dc:title xml:lang="en">stratification by ALS-FRS-R score</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: stratification by ALS-FRS-R score</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000082</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: stratification by ALS-FRS-R score</rdfs:label>
@@ -856,7 +856,7 @@
 
   <owl:Class rdf:about="https://w3id.org/euro-nmd-kpis#KPI_000083">
   <rdfs:subClassOf rdf:resource="http://edamontology.org/operation_3438"/>
-  <dc:title xml:lang="en">number of patients evaluated with disease-specific outcome measures</dc:description>
+  <dc:title xml:lang="en">number of patients evaluated with disease-specific outcome measures</dc:title>
   <dc:description xml:lang="en">From the EURO-NMD Registry Hub List of Key Performance Indicators, this term represents a class of algorithms that execute the following calculation: number of patients evaluated with disease-specific outcome measures</dc:description>
   <dc:identifier>https://w3id.org/euro-nmd-kpis#KPI_000083</dc:identifier>
   <rdfs:label xml:lang="en">EURO-NMD KPI: number of patients evaluated with disease-specific outcome measures</rdfs:label>
