@@ -15,6 +15,7 @@
      xmlns:void="http://rdfs.org/ns/void#"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:schema="http://schema.org/"
+     xmlns:doap="http://usefulinc.com/ns/doap#"
      xmlns:resource="http://semanticscience.org/resource/">
     <owl:Ontology rdf:about="https://w3id.org/euro-nmd-kpis">
         <owl:imports rdf:resource="https://edamontology.org/EDAM.owl"/>
